@@ -12,7 +12,7 @@
   - [tool.py](./utils/tool.py)       # 解耦了一些转换函数
   - [currency.py](./utils/currency.py)   # 一些关键映射表和常量
 - [webdriver/](./webdriver)           # webdriver所在驱动目录
-  - [example/](./webdriver/example)   # 第一题生成的例子
+- [example/](./webdriver/example)   # 第一题生成的例子
 
 # 第一题
 
